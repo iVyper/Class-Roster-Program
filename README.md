@@ -21,13 +21,13 @@ This project is a C++ application that manages a class roster. It allows you to 
 1. **Clone the Repository or Download the Source Files:**
 
    ```bash
-   git clone https://github.com/yourusername/classRosterProgram.git
-   cd classRosterProgram
+   git clone https://github.com/ivyper/Class-Roster-Program.git
+   cd Class-Roster-Program
 
 2. **Compile the Program:**
 
     ```bash
-    g++ -std=c++11 main.cpp roster.cpp student.cpp -o classRosterProgram
+    g++ -std=c++11 main.cpp roster.cpp student.cpp -o Class-Roster-Program
 
 3. **Run the Executable:**
 
